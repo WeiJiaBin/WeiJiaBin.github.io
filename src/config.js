@@ -6,7 +6,7 @@ export default {
   },
   // page2部分
   page2: {
-    authorImg: '', // 作者头像page1.jpg
+    authorImg: 'page.jpg', // 作者头像page1.jpg
     xinhui: 'asasdsdsadsad', // 幸会
     qiuzhi: '技术经理', // 求职意向
     guanyuwo: 'asdasdasd', // 关于我
