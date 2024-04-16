@@ -144,7 +144,7 @@ export default {
     bili: '',
     email: 'Mailto:793048472@qq.com?Subject=邮箱标题&Body=邮箱内容！',
     zhihu: '',
-    weixin: "<img style='width:120px' src='' alt='加载失败'>",
+    weixin: "<img style='width:120px' src='./src/img/wx.png' alt='加载失败'>",
     qq: "<img style='width:120px' src='' alt='加载失败'>",
   },
 };
