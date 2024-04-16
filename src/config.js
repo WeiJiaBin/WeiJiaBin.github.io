@@ -108,41 +108,35 @@ export default {
   page5: [
     {
       title: '新钢业综合业务管理信息系统',
-      content: '新钢业综合业务管理信息系统',
-      image: 'ibs.png',
+      content: 'NSC',
+      image: './src/img/ibs.png',
       href: 'http://118.126.90.160:1888/static/Download.html',
     },
     {
-      title: '钢城安全环保管控平台',
-      content: '钢城安全环保管控平台',
-      image: 'gchb.png',
+      title: '钢城智慧安全管控平台',
+      content: '钢城环保管控平台',
+      image: './src/img/gchb.png',
       href: 'https://aqhb.pzhgcjt.com.cn:9527/static/Download.html',
     },
     {
-      title: '智慧作业区',
-      content: '智慧作业区',
-      image: 'logo2.png',
+      title: '宝武碳业苯加氢智慧作业区',
+      content: 'HGB智慧作业',
+      image: './src/img/hgb.png',
       href: 'https://apps.apple.com/tw/app/hgb%E6%99%BA%E6%85%A7%E4%BD%9C%E4%B8%9A/id1661496768?l=en-GB',
     },
 
     {
       title: '攀钢工程安全考试系统',
-      content: '攀钢工程安全考试系统',
-      image: 'lan.png',
+      content: '攀钢工程安全考试',
+      image: './src/img/lan.png',
       href: 'https://pggcks.pzhsteelmobile.cn/static/Download.html',
     },
     {
-      title: '安e达',
-      content: '西昌钢钒智慧安全管理系统',
-      image: 'ayd.png',
+      title: '西昌钢钒智慧安全管理系统',
+      content: '安e达',
+      image: './src/img/ayd.png',
       href: 'https://pzhsteelmobile.cn/appstore/module/appstore/detail.html?category=01&id=xcgfsms',
     },
-    // {
-    //   title: '项目六',
-    //   content: '项目六',
-    //   image: 'box6.jpeg',
-    //   href: '',
-    // },
   ],
   // page6部分
   page6: {
