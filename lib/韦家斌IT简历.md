@@ -5,7 +5,6 @@
 
 ## 求职意向
 
-- 目前南京在职
 - 期望职位：技术经理||Java后端开发
 
 ## 教育经历
@@ -24,12 +23,12 @@
 
 ## 工作经历
 
-### **[ 南京简智达科技有限公司](http://www.jzdinfo.com)（2020 年 11 月 ~ 至今 ）**
+### **[ 南京简智达科技有限公司]（2020 年 11 月 ~ 至今 ）**
 
 - **职位**：技术经理
 - **工作内容**：主要负责日常公司项目的设计与开发，包括不限于搭建项目架构、根据数据要求设计数据库，确定实现方案、编写组件、解决项目中遇到的难点，带新员工。对公司项目上线进行环境安装，部署，发布。
 
-### **[南京宸象空间信息技术有限公司](http://www.baidu.com/link?url=f2wUvlzvi7NqmfuLEfExfEWaMnwU-0kqYcciVrYCt77BmydNO-Z0dbojIX_m_V95KIPdiD-E_sMGv6jZPCYYZqZ0xNK6zIUCDIfJC8NQgI0ltnJ5uP8VBjyB-_MsenJYLDX_p4PM8pW5mY2tLfl1OTlkuvxG2v3BSp9j8EN6Eub5RUcPP9nqyEXohMLENT6lymN7PRmBvRVuiLy3s0ZT2NQCKJ4-kNMpood2FliKa0KU2pA3NdIkvjjCXT7X70qp)（2019 年 6 月 ~ 2020 年 10 月 ）**
+### **[南京宸象空间信息技术有限公司]（2019 年 6 月 ~ 2020 年 10 月 ）**
 
 - **职位**：全栈工程师
 - **工作内容**：主要负责开发公司气象相关的项目
