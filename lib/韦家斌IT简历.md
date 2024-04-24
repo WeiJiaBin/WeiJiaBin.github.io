@@ -19,7 +19,7 @@
 - **开发工具** ： Maven、Git、SVN、IDEA 、VSCode、HBuilder X
 - **数据库**： Oracle、MySQL 、Redis
 - **后端** ： Spring、Spring MVC、 SpringBoot、SprngCloud、 RPC（Dubbo）、Seata、Nacos、Sentinel、MyBatisPlus、Flowable 、MinIO、Kafka、ELK（Elasticsearch、Logstrash、Kibana）
-- **前端**： HTML5、leaflet.js、 TypeScript 、 uni-app、Vue 
+- **前端**： HTML5、leaflet.js、 TypeScript 、 uni-app、Vue 、React
 
 ## 工作经历
 
